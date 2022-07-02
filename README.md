@@ -1,12 +1,12 @@
 # Can I Eat This?
 
-The purpose of this project is to retrieve edibility of plant species from pictures. If a plant is edible, a recipe will be returned as well. Edibility is determined via different parts of each plant ( flowers, fruits, bark, roots, etc).
+The purpose of this API is to retrieve edibility of plant species from pictures. If a plant is edible, a recipe will be returned as well. Edibility is determined via different parts of each plant ( flowers, fruits, bark, roots, etc).
+
+The API makes a call to Plant ID to retrieve plant identification and then uses the plant's scientific name to retrieve edibility and recipe information from the linked `plantinformation`S3 bucket.
 
 ### Utilizes
 
 Plant Identification: https://web.plant.id/plant-identification-api/
-
-Edible foods database: https://fms.cmsvr.com/fmi/webd/Food_Plants_World
 
 Plant Recipes: https://www.ediblewildfood.com/
 
