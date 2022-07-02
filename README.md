@@ -1,11 +1,14 @@
 # Can I Eat This?
 
-The purpose of this project is to retrieve edibility of plant species from pictures. Edibility is determined via different parts of each plant ( flowers, fruits, bark, roots, etc).
+The purpose of this project is to retrieve edibility of plant species from pictures. If a plant is edible, a recipe will be returned as well. Edibility is determined via different parts of each plant ( flowers, fruits, bark, roots, etc).
 
 ### Utilizes
 
 Plant Identification: https://web.plant.id/plant-identification-api/
+
 Edible foods database: https://fms.cmsvr.com/fmi/webd/Food_Plants_World
+
+Plant Recipes: https://www.ediblewildfood.com/
 
 ## Necessary Disclaimer
 
