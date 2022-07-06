@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "scope": "open-tree",
+  "env": {
+    "SLACK_TOKEN": "@slack-token"
+  }
+}

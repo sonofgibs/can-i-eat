@@ -13,3 +13,16 @@ Plant Recipes: https://www.ediblewildfood.com/
 ## Necessary Disclaimer
 
 This project only determines potential edibility of plant species and is just a for-joy project. Errors in identifiaction may occur, especially with our fungus friends. Please think before you eat; insects, bacteria, and viruses are abound!
+
+### Development
+
+```bash
+$ yarn
+$ now dev
+```
+
+### Deployment
+
+```bash
+$ now
+```
